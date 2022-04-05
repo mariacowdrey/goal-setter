@@ -1,8 +1,12 @@
-# goal-setter
+# GoalSetter
 
-## MERN Stack:
+An app that allows users to log in and view a dashboard where they can add/delete goals.
 
-- Express & MongoDB Rest API
+![GoalSetter App](GoalSetter.png)
+
+## Created with the MERN Stack:
+
+- Node, Express & MongoDB Rest API
 - JWT Authentication
-- Frontend Authentication & Redux Toolkit
-- Redux Goals
+- Frontend Authentication
+- React & Redux Toolkit
